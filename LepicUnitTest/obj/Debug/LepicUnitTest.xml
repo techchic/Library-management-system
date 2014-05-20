@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LepicUnitTest
+</name>
+</assembly>
+<members>
+<member name="P:LepicUnitTest.StudentDALTest.TestContext">
+	<summary>
+Gets or sets the test context which provides
+information about and functionality for the current test run.
+</summary>
+</member><member name="P:LepicUnitTest.BookTest.TestContext">
+	<summary>
+Gets or sets the test context which provides
+information about and functionality for the current test run.
+</summary>
+</member>
+</members>
+</doc>

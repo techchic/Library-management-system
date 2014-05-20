@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="0050ef15-fa8e-4197-acf0-63287a1d011c" name="Dorry@DORRY-PC 2013-09-25 23:56:45" runUser="Dorry-PC\Dorry" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="19c77609-d6a7-4c1d-b468-72eb81cbdb6a">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Dorry_DORRY-PC 2013-09-25 23_56_45">
+      <DeploymentItem filename="D:\School\Projects\LePic\LePic\bin\Debug\LePic.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-09-25T23:56:45.4090305+03:00" queuing="2013-09-25T23:56:45.4520330+03:00" start="2013-09-25T23:56:45.4730342+03:00" finish="2013-09-25T23:56:46.1360721+03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetSetBookName" storage="d:\school\projects\lepic\lepicunittest\bin\debug\lepicunittest.dll" id="4f499edc-a4f4-6f0d-1e86-71f7c600d3a2">
+      <Execution id="83545a13-ba26-47f6-9944-fcd37ee0d61d" />
+      <TestMethod codeBase="D:/School/Projects/LePic/LepicUnitTest/bin/Debug/LepicUnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LepicUnitTest.BookTest, LepicUnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetSetBookName" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4f499edc-a4f4-6f0d-1e86-71f7c600d3a2" executionId="83545a13-ba26-47f6-9944-fcd37ee0d61d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="83545a13-ba26-47f6-9944-fcd37ee0d61d" testId="4f499edc-a4f4-6f0d-1e86-71f7c600d3a2" testName="GetSetBookName" computerName="DORRY-PC" duration="00:00:00.2354489" startTime="2013-09-25T23:56:45.5070361+03:00" endTime="2013-09-25T23:56:46.0040646+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="83545a13-ba26-47f6-9944-fcd37ee0d61d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;TFA009&gt;. Actual:&lt;Things fall&gt;. </Message>
+          <StackTrace>   at LepicUnitTest.BookTest.GetSetBookName() in D:\School\Projects\LePic\LepicUnitTest\BookTest.vb:line 54
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

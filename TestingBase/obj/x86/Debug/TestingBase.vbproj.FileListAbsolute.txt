@@ -1,0 +1,14 @@
+D:\School\Projects\LePic\TestingBase\bin\Debug\TestingBase.exe
+D:\School\Projects\LePic\TestingBase\bin\Debug\TestingBase.pdb
+D:\School\Projects\LePic\TestingBase\bin\Debug\TestingBase.xml
+D:\School\Projects\LePic\TestingBase\bin\Debug\LePic.dll
+D:\School\Projects\LePic\TestingBase\bin\Debug\LePic.pdb
+D:\School\Projects\LePic\TestingBase\bin\Debug\LePic.xml
+D:\School\Projects\LePic\TestingBase\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\School\Projects\LePic\TestingBase\obj\x86\Debug\TestingBase.Form1.resources
+D:\School\Projects\LePic\TestingBase\obj\x86\Debug\TestingBase.Resources.resources
+D:\School\Projects\LePic\TestingBase\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\School\Projects\LePic\TestingBase\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\School\Projects\LePic\TestingBase\obj\x86\Debug\TestingBase.exe
+D:\School\Projects\LePic\TestingBase\obj\x86\Debug\TestingBase.xml
+D:\School\Projects\LePic\TestingBase\obj\x86\Debug\TestingBase.pdb

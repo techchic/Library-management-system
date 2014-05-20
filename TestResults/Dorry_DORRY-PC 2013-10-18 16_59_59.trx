@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="5ea9f609-b5c4-4775-9584-aa8b5aa0bf52" name="Dorry@DORRY-PC 2013-10-18 16:59:59" runUser="Dorry-PC\Dorry" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="19c77609-d6a7-4c1d-b468-72eb81cbdb6a">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Dorry_DORRY-PC 2013-10-18 16_59_59">
+      <DeploymentItem filename="D:\School\Projects\LePic\LePic\bin\Debug\LePic.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-10-18T16:59:59.0417522+03:00" queuing="2013-10-18T17:00:12.6449761+03:00" start="2013-10-18T17:00:13.4093775+03:00" finish="2013-10-18T17:00:55.5094652+03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="3" executed="3" passed="2" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetSetBookCode" storage="d:\school\projects\lepic\lepicunittest\bin\debug\lepicunittest.dll" id="550e1c5b-b84d-4245-88c7-5a7908f790e8">
+      <Execution id="2602466a-2baf-4245-82f4-6fee12542494" />
+      <TestMethod codeBase="D:/School/Projects/LePic/LepicUnitTest/bin/Debug/LepicUnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LepicUnitTest.BookTest, LepicUnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetSetBookCode" />
+    </UnitTest>
+    <UnitTest name="CanFetchByID" storage="d:\school\projects\lepic\lepicunittest\bin\debug\lepicunittest.dll" id="551a1638-a9d2-febe-4264-bbc59d11c757">
+      <Execution id="ad3927b0-b699-4af6-820a-5677c95b7b5d" />
+      <TestMethod codeBase="D:/School/Projects/LePic/LepicUnitTest/bin/Debug/LepicUnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LepicUnitTest.StudentDALTest, LepicUnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CanFetchByID" />
+    </UnitTest>
+    <UnitTest name="GetSetBookName" storage="d:\school\projects\lepic\lepicunittest\bin\debug\lepicunittest.dll" id="4f499edc-a4f4-6f0d-1e86-71f7c600d3a2">
+      <Execution id="608a92e3-e499-44be-b4db-2b97917bcad4" />
+      <TestMethod codeBase="D:/School/Projects/LePic/LepicUnitTest/bin/Debug/LepicUnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LepicUnitTest.BookTest, LepicUnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetSetBookName" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="550e1c5b-b84d-4245-88c7-5a7908f790e8" executionId="2602466a-2baf-4245-82f4-6fee12542494" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4f499edc-a4f4-6f0d-1e86-71f7c600d3a2" executionId="608a92e3-e499-44be-b4db-2b97917bcad4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="551a1638-a9d2-febe-4264-bbc59d11c757" executionId="ad3927b0-b699-4af6-820a-5677c95b7b5d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="2602466a-2baf-4245-82f4-6fee12542494" testId="550e1c5b-b84d-4245-88c7-5a7908f790e8" testName="GetSetBookCode" computerName="DORRY-PC" duration="00:00:00.3804016" startTime="2013-10-18T17:00:13.5653778+03:00" endTime="2013-10-18T17:00:16.1861824+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2602466a-2baf-4245-82f4-6fee12542494">
+    </UnitTestResult>
+    <UnitTestResult executionId="608a92e3-e499-44be-b4db-2b97917bcad4" testId="4f499edc-a4f4-6f0d-1e86-71f7c600d3a2" testName="GetSetBookName" computerName="DORRY-PC" duration="00:00:00.0005663" startTime="2013-10-18T17:00:16.2641825+03:00" endTime="2013-10-18T17:00:16.2797825+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="608a92e3-e499-44be-b4db-2b97917bcad4">
+    </UnitTestResult>
+    <UnitTestResult executionId="ad3927b0-b699-4af6-820a-5677c95b7b5d" testId="551a1638-a9d2-febe-4264-bbc59d11c757" testName="CanFetchByID" computerName="DORRY-PC" duration="00:00:38.7730655" startTime="2013-10-18T17:00:16.2953826+03:00" endTime="2013-10-18T17:00:55.1038645+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ad3927b0-b699-4af6-820a-5677c95b7b5d">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method LepicUnitTest.StudentDALTest.CanFetchByID threw exception: 
+System.Data.SqlClient.SqlException: Cannot open database "Lepic" requested by the login. The login failed.
+Login failed for user 'Dorry-PC\Dorry'.</Message>
+          <StackTrace>    at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   at System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   at System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at LePic.DALStudent.FetchById(Student&amp; refStudent) in D:\School\Projects\LePic\LePic\DALStudent.vb:line 68
+   at LePic.Student..ctor(Int32 ID) in D:\School\Projects\LePic\LePic\Student.vb:line 7
+   at LepicUnitTest.StudentDALTest.CanFetchByID() in D:\School\Projects\LePic\LepicUnitTest\StudentDALTest.vb:line 47
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

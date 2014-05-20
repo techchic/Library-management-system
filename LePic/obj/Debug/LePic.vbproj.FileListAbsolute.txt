@@ -1,0 +1,10 @@
+D:\School\Projects\LePic\LePic\bin\Debug\LePic.dll
+D:\School\Projects\LePic\LePic\bin\Debug\LePic.pdb
+D:\School\Projects\LePic\LePic\bin\Debug\LePic.xml
+D:\School\Projects\LePic\LePic\obj\Debug\ResolveAssemblyReference.cache
+D:\School\Projects\LePic\LePic\obj\Debug\LePic.Resources.resources
+D:\School\Projects\LePic\LePic\obj\Debug\GenerateResource.read.1.tlog
+D:\School\Projects\LePic\LePic\obj\Debug\GenerateResource.write.1.tlog
+D:\School\Projects\LePic\LePic\obj\Debug\LePic.dll
+D:\School\Projects\LePic\LePic\obj\Debug\LePic.xml
+D:\School\Projects\LePic\LePic\obj\Debug\LePic.pdb

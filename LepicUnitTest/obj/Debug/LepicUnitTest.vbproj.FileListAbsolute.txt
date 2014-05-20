@@ -1,0 +1,10 @@
+D:\School\Projects\LePic\LepicUnitTest\bin\Debug\LepicUnitTest.dll
+D:\School\Projects\LePic\LepicUnitTest\bin\Debug\LepicUnitTest.pdb
+D:\School\Projects\LePic\LepicUnitTest\bin\Debug\LepicUnitTest.xml
+D:\School\Projects\LePic\LepicUnitTest\bin\Debug\LePic.dll
+D:\School\Projects\LePic\LepicUnitTest\bin\Debug\LePic.pdb
+D:\School\Projects\LePic\LepicUnitTest\bin\Debug\LePic.xml
+D:\School\Projects\LePic\LepicUnitTest\obj\Debug\ResolveAssemblyReference.cache
+D:\School\Projects\LePic\LepicUnitTest\obj\Debug\LepicUnitTest.dll
+D:\School\Projects\LePic\LepicUnitTest\obj\Debug\LepicUnitTest.xml
+D:\School\Projects\LePic\LepicUnitTest\obj\Debug\LepicUnitTest.pdb
